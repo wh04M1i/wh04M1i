@@ -15,9 +15,10 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) 
+
+# TRYHACKME :
 <img alt="Hacker"  src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png">
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="goverdhankumar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/goverdhankumar?trk=profile-badge">Goverdhan Kumar</a></div>
+
               
 
 # 💻 Tech Stack:
