@@ -26,7 +26,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wh04m1i&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wh04m1i&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" alt="Hacker"  src="[https://tryhackme.com/badge/415141](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)">
+<img align="right" alt="Hacker"  src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
