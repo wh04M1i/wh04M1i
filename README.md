@@ -89,9 +89,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 ### LeetCode:
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
-
-### HackerRank:
-![HackerRank Stats](https://hacker-rank-stats.vercel.app/api/hackerrank?username=goverdhan_kumar1&theme=dark)
+![LeetCode Streak](https://leetcode-stats-six.vercel.app/api/streak?username=your_username&theme=dark)
 <details>
   <summary>🎯 TryHackMe Achievements</summary>
  <br><br>
