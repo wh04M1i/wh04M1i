@@ -88,8 +88,8 @@ Let's connect and collaborate to build innovative and secure software solutions 
 # 📊 Coding Stats:
 
 ### LeetCode:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your_username&theme=dark)
-![LeetCode Streak](https://leetcode-stats-six.vercel.app/api/streak?username=your_username&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
+![LeetCode Streak](https://leetcode-stats-six.vercel.app/api/streak?username=pandeygoverdhan&theme=dark)
 <details>
   <summary>🎯 TryHackMe Achievements</summary>
  <br><br>
