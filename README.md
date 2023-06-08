@@ -43,7 +43,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-icon.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://icons8.com/icon/fG5Tnj4ARIoI/linux" alt="Kali Linux" width="40" height="40"/>
   </a>
   <a href="https://www.openwebapplicationsecurityproject.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40"/>
