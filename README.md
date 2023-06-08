@@ -19,11 +19,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 <!-- # Tryhackme:
 <img alt="Hacker"  src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png">
-
-
 -->
-
-              
 
 # 💻 Tech Stack:
 <h3 align="left">Skills:</h3>
@@ -34,6 +30,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+
   <a href="https://www.owasp.org/" target="_blank" rel="noreferrer">
     <img src="https://jowasp.github.io/images/owasp_logo_icon.png" alt="OWASP" width="40" height="40"/>
   </a>
@@ -54,6 +51,18 @@ Let's connect and collaborate to build innovative and secure software solutions 
   </a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
     <img src="https://www.splunk.com/content/dam/splunk2/images/Planet-Splunk.png" alt="Splunk" width="40" height="40"/>
+  </a>
+ <a href="https://www.html.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.sql.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="Red Hat" width="40" height="40"/>
   </a>
  
 </p>
