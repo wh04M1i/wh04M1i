@@ -119,38 +119,6 @@ Let's connect and collaborate to build innovative and secure software solutions 
 </details>
 
 
-<div style="background-color: #1A1C23; padding: 20px; border-radius: 10px;">
-  <h3 style="color: #FFF; font-size: 20px; font-weight: bold;">🎯 TryHackMe Achievements</h3>
-
-  <div style="margin-left: 20px; margin-top: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
-    <p style="color: #FFF;">Completed Room 86</p>
-
-    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
-    <p style="color: #FFF;">Earned Badges:</p>
-    <ul style="list-style-type: none; color: #FFF; padding-left: 0;">
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/wireshark">Wireshark</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/world-wide-web">World Wide Web</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/network-fundamentals">Network Fundamentals</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/blue">Blue</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/mr-robot">Mr. Robot</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/hash-cracker">Hash Cracker</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/ohsint">OHSINT</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/owasp-10">OWASP-10</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting">Intro to Pentesting</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/terminaled">Terminaled</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/web-fund">Web Fund</a></li>
-      <li><a href="https://tryhackme.com/pangoverdhan/badges/30-day-streak">30-Day Streak</a></li>
-    </ul>
-
-    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
-    <p style="color: #FFF;">Level: 9</p>
-
-    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
-    <p style="color: #FFF;">Rank: Top 1%</p>
-  </div>
-</div>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
