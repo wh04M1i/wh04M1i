@@ -95,7 +95,9 @@ Let's connect and collaborate to build innovative and secure software solutions 
 <details>
   <summary>🎯 TryHackMe Achievements</summary>
  <br><br>
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)<br><br>
+  
+ ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
+ <br><br>
   🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.<br><br>
 
   🌟 My achievements:
