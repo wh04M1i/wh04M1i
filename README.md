@@ -19,6 +19,9 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 # Tryhackme:
 <img alt="Hacker"  src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png">
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
+![TryHackMe Badge](https://img.shields.io/endpoint?url=https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
+
 
               
 
