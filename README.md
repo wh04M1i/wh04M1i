@@ -11,8 +11,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 - 📫 How to reach me *pandeygoverdhan@proton.me*
 
-<img align="right" alt="Hacker" width="350" src= "https://media.tenor.com/images/b09a5c53026b5b30935947f380107bdc/tenor.gif">
-<br><br>
+<img align="right" alt="Hacker" width="350" src= "https://media.tenor.com/images/b09a5c53026b5b30935947f380107bdc/tenor.gif"><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N/) 
