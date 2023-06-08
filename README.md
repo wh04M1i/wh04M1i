@@ -26,7 +26,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
 
 # 💻 Tech Stack:
-<h3 align="left">Skills:</h3>
+<h3 align="left">Language and Tools:</h3>
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
