@@ -85,20 +85,38 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 # 📊 Coding Stats:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/wh04m1)
+### LeetCode:
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
 
-## 🎯 TryHackMe
+### GeeksforGeeks:
+![GeeksforGeeks Stats](https://geeksforgeeks-stats.vercel.app/api?username=wh04m1&theme=dark)
 
-🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
+<details>
+  <summary>🎯 TryHackMe Achievements</summary>
+  
+  🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
 
-🌟 My achievements:
-- Completed [Room Name 1](https://tryhackme.com/room/room-name-1)
-- Earned [Badge Name 1](https://tryhackme.com/badge/badge-name-1)
-- Completed [Room Name 2](https://tryhackme.com/room/room-name-2)
-- Earned [Badge Name 2](https://tryhackme.com/badge/badge-name-2)
+  🌟 My achievements:
+  - Completed Room 86
+  - Earned Badges:
+    - [Wireshark](https://tryhackme.com/pangoverdhan/badges/wireshark)
+    - [World Wide Web](https://tryhackme.com/pangoverdhan/badges/world-wide-web)
+    - [Network Fundamentals](https://tryhackme.com/pangoverdhan/badges/network-fundamentals)
+    - [Blue](https://tryhackme.com/pangoverdhan/badges/blue)
+    - [Mr. Robot](https://tryhackme.com/pangoverdhan/badges/mr-robot)
+    - [Hash Cracker](https://tryhackme.com/pangoverdhan/badges/hash-cracker)
+    - [OHSINT](https://tryhackme.com/pangoverdhan/badges/ohsint)
+    - [OWASP-10](https://tryhackme.com/pangoverdhan/badges/owasp-10)
+    - [Intro to Pentesting](https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting)
+    - [Terminaled](https://tryhackme.com/pangoverdhan/badges/terminaled)
+    - [Web Fund](https://tryhackme.com/pangoverdhan/badges/web-fund)
+    - [30-Day Streak](https://tryhackme.com/pangoverdhan/badges/30-day-streak)
 
-Stay tuned for more updates as I continue my journey in TryHackMe!
+  🚀 Level: 9
+  🏆 Rank: Top 1%
+
+  Stay tuned for more updates as I continue my journey in TryHackMe!
+</details>
 
 
 ## 🏆 GitHub Trophies
