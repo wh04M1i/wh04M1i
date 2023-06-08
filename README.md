@@ -79,7 +79,13 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wh04m1i&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wh04m1i&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 Coding Stats:
 
+### LeetCode:
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
+
+### TryHackMe:
+![TryHackMe Stats](https://tryhackme-stats.vercel.app/api/stats/pangoverdhan)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
