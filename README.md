@@ -117,39 +117,38 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
   Stay tuned for more updates as I continue my journey in TryHackMe!
 </details>
+</div>
 
 <div style="background-color: #1A1C23; padding: 20px; border-radius: 10px;">
+  <h3 style="color: #FFF; font-size: 20px; font-weight: bold;">🎯 TryHackMe Achievements</h3>
 
-
-<details>
-  <summary style="font-size: 20px; font-weight: bold; color: #FFF;">🎯 TryHackMe Achievements</summary>
-  
   <div style="margin-left: 20px; margin-top: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
+    <p style="color: #FFF;">Completed Room 86</p>
 
-  🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
+    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
+    <p style="color: #FFF;">Earned Badges:</p>
+    <ul style="list-style-type: none; color: #FFF; padding-left: 0;">
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/wireshark">Wireshark</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/world-wide-web">World Wide Web</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/network-fundamentals">Network Fundamentals</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/blue">Blue</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/mr-robot">Mr. Robot</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/hash-cracker">Hash Cracker</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/ohsint">OHSINT</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/owasp-10">OWASP-10</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting">Intro to Pentesting</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/terminaled">Terminaled</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/web-fund">Web Fund</a></li>
+      <li><a href="https://tryhackme.com/pangoverdhan/badges/30-day-streak">30-Day Streak</a></li>
+    </ul>
 
-  🌟 My achievements:
-  - Completed Room 86
-  - Earned Badges:
-    - [Wireshark](https://tryhackme.com/pangoverdhan/badges/wireshark)
-    - [World Wide Web](https://tryhackme.com/pangoverdhan/badges/world-wide-web)
-    - [Network Fundamentals](https://tryhackme.com/pangoverdhan/badges/network-fundamentals)
-    - [Blue](https://tryhackme.com/pangoverdhan/badges/blue)
-    - [Mr. Robot](https://tryhackme.com/pangoverdhan/badges/mr-robot)
-    - [Hash Cracker](https://tryhackme.com/pangoverdhan/badges/hash-cracker)
-    - [OHSINT](https://tryhackme.com/pangoverdhan/badges/ohsint)
-    - [OWASP-10](https://tryhackme.com/pangoverdhan/badges/owasp-10)
-    - [Intro to Pentesting](https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting)
-    - [Terminaled](https://tryhackme.com/pangoverdhan/badges/terminaled)
-    - [Web Fund](https://tryhackme.com/pangoverdhan/badges/web-fund)
-    - [30-Day Streak](https://tryhackme.com/pangoverdhan/badges/30-day-streak)
+    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
+    <p style="color: #FFF;">Level: 9</p>
 
-  🚀 Level: 9
-  🏆 Rank: Top 1%
-
+    <img src="https://img.icons8.com/color/48/000000/medal2--v1.png"/>
+    <p style="color: #FFF;">Rank: Top 1%</p>
   </div>
-</details>
-
 </div>
 
 
