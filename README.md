@@ -83,13 +83,23 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh04m1i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📊 Coding Stats:
+# 📊 Coding Stats:
 
-### LeetCode:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/wh04m1)
 
-### TryHackMe:
-![TryHackMe Stats](https://tryhackme-stats.vercel.app/api/stats/pangoverdhan)
+## 🎯 TryHackMe
+
+🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
+
+🌟 My achievements:
+- Completed [Room Name 1](https://tryhackme.com/room/room-name-1)
+- Earned [Badge Name 1](https://tryhackme.com/badge/badge-name-1)
+- Completed [Room Name 2](https://tryhackme.com/room/room-name-2)
+- Earned [Badge Name 2](https://tryhackme.com/badge/badge-name-2)
+
+Stay tuned for more updates as I continue my journey in TryHackMe!
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
