@@ -14,7 +14,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 <img align="right" alt="Hacker" width="450" src="https://giffiles.alphacoders.com/174/1744.gif">
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![tryhackme](https://img.shields.io/badge/-TryHackMe-brightgreen)](https://tryhackme.com/p/pangoverdhan)
 
 # Tryhackme:
 <img alt="Hacker"  src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png">
@@ -28,10 +28,10 @@ Let's connect and collaborate to build innovative and secure software solutions 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40"/>
+    <img src="https://jowasp.github.io/images/owasp_logo_icon.png" alt="OWASP" width="40" height="40"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rapid7/metasploit-website/master/source/assets/favicon.png" alt="Metasploit" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png" alt="Metasploit" width="40" height="40"/>
   </a>
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
@@ -43,7 +43,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali/linux-icon.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-icon.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
   <a href="https://www.openwebapplicationsecurityproject.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40"/>
