@@ -93,9 +93,10 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ![HackerRank Stats](https://hacker-rank-stats.vercel.app/api/hackerrank?username=goverdhan_kumar1&theme=dark)
 <details>
   <summary>🎯 TryHackMe Achievements</summary>
-  
-  🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
+ 
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)<br>
+  🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.<br><br>
+
   🌟 My achievements:
   - Completed Room 86
   - Earned Badges:
