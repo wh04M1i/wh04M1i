@@ -117,7 +117,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
   Stay tuned for more updates as I continue my journey in TryHackMe!
 </details>
-</div>
+
 
 <div style="background-color: #1A1C23; padding: 20px; border-radius: 10px;">
   <h3 style="color: #FFF; font-size: 20px; font-weight: bold;">🎯 TryHackMe Achievements</h3>
