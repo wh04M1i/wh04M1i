@@ -18,8 +18,9 @@ Let's connect and collaborate to build innovative and secure software solutions 
 <br>
 
 ## 🏆 Coding & 🔓 Hacking Profiles:
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/goverdhan_kumar1?hr_r=1)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/goverdhan_kumar1?hr_r=1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/wh04m1)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pangoverdhan)
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23000000.svg?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/whoami1001)
@@ -93,8 +94,8 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ![HackerRank Stats](https://hacker-rank-stats.vercel.app/api/hackerrank?username=goverdhan_kumar1&theme=dark)
 <details>
   <summary>🎯 TryHackMe Achievements</summary>
- 
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)<br>
+ <br><br>
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)<br><br>
   🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.<br><br>
 
   🌟 My achievements:
