@@ -118,6 +118,40 @@ Let's connect and collaborate to build innovative and secure software solutions 
   Stay tuned for more updates as I continue my journey in TryHackMe!
 </details>
 
+<div style="background-color: #1A1C23; padding: 20px; border-radius: 10px;">
+
+
+<details>
+  <summary style="font-size: 20px; font-weight: bold; color: #FFF;">🎯 TryHackMe Achievements</summary>
+  
+  <div style="margin-left: 20px; margin-top: 10px;">
+
+  🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
+
+  🌟 My achievements:
+  - Completed Room 86
+  - Earned Badges:
+    - [Wireshark](https://tryhackme.com/pangoverdhan/badges/wireshark)
+    - [World Wide Web](https://tryhackme.com/pangoverdhan/badges/world-wide-web)
+    - [Network Fundamentals](https://tryhackme.com/pangoverdhan/badges/network-fundamentals)
+    - [Blue](https://tryhackme.com/pangoverdhan/badges/blue)
+    - [Mr. Robot](https://tryhackme.com/pangoverdhan/badges/mr-robot)
+    - [Hash Cracker](https://tryhackme.com/pangoverdhan/badges/hash-cracker)
+    - [OHSINT](https://tryhackme.com/pangoverdhan/badges/ohsint)
+    - [OWASP-10](https://tryhackme.com/pangoverdhan/badges/owasp-10)
+    - [Intro to Pentesting](https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting)
+    - [Terminaled](https://tryhackme.com/pangoverdhan/badges/terminaled)
+    - [Web Fund](https://tryhackme.com/pangoverdhan/badges/web-fund)
+    - [30-Day Streak](https://tryhackme.com/pangoverdhan/badges/30-day-streak)
+
+  🚀 Level: 9
+  🏆 Rank: Top 1%
+
+  </div>
+</details>
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
