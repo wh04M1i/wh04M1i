@@ -17,7 +17,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pangoverdhan)![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
 
 
-<--# Tryhackme:
+<!-- # Tryhackme:
 <img alt="Hacker"  src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png">
 
 
