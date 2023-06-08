@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=wh04m1i&icon=0&color=10)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Goverdhan Kumar</h1>
-#💫 About Me: <br>
+# 💫 About Me: <br>
  GitHub Contributor | Cybersecurity Enthusiast | Penetration Testing | OSINT | Digital Forensics | Sharing insights and resources for secure coding and collaboration | Passionate about open-source projects | Let's collaborate and build a safer digital world together. <br><br>
 <pre>I am a multi-talented professional with a strong background in cybersecurity, coding, and software development.With expertise in penetration testing,
 OSINT, and digital forensics, I bring a unique perspective to my coding projects. As a GitHub contributor, I actively contribute to open-source projects,
@@ -17,7 +17,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N/) 
 <br>
 
-# 🏆 Coding & 🔓 Hacking Profiles:
+## 🏆 Coding & 🔓 Hacking Profiles:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/goverdhan_kumar1?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pangoverdhan)
