@@ -11,7 +11,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 - 📫 How to reach me *pandeygoverdhan@proton.me*
 
-<img align="right" alt="Hacker" width="400" src="[https://giffiles.alphacoders.com/174/1744.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFhMGMxYmQxNmQ5ZWRiNzUwMmY0MDlhZTczY2ZjMzkzY2ViMDg1MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JTTAjM197sku8MgrRa/giphy.gif)">
+<img align="right" alt="Hacker" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFhMGMxYmQxNmQ5ZWRiNzUwMmY0MDlhZTczY2ZjMzkzY2ViMDg1MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JTTAjM197sku8MgrRa/giphy.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N/) 
