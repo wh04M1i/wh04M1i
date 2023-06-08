@@ -20,10 +20,11 @@ Let's connect and collaborate to build innovative and secure software solutions 
 ## 🏆 Coding & 🔓 Hacking Profiles:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/goverdhan_kumar1?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/wh04m1)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pangoverdhan)
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23000000.svg?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/whoami1001)
 <br>
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
+
 
 # 💻 Tech Stack:
 <h3 align="left">Language and Tools:</h3>
@@ -94,7 +95,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
   <summary>🎯 TryHackMe Achievements</summary>
   
   🔭 I'm currently exploring the exciting world of cybersecurity through TryHackMe.
-
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png)
   🌟 My achievements:
   - Completed Room 86
   - Earned Badges:
