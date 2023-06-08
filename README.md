@@ -116,7 +116,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
     - [Web Fund](https://tryhackme.com/pangoverdhan/badges/web-fund)
     - [30-Day Streak](https://tryhackme.com/pangoverdhan/badges/30-day-streak)
 
-  🚀 Level: 9
+  🚀 Level: 9 <br>
   🏆 Rank: Top 1%
 
   Stay tuned for more updates as I continue my journey in TryHackMe!
