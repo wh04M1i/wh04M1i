@@ -69,6 +69,8 @@ Let's connect and collaborate to build innovative and secure software solutions 
  
 </p>
 
+### 🎯 TryHackMe Profile
+
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
@@ -94,15 +96,15 @@ Let's connect and collaborate to build innovative and secure software solutions 
 
 # 📊 GitHub Stats:
 
-<a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=wh04m1i&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wh04m1i&theme=dark&hide_border=false)
-
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wh04m1i&theme=dark&hide_border=false) <br>
+ 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wh04m1i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) <br>
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh04m1i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
-# 📊 Coding Stats:
+ 
+ # 📊 Coding Stats:
 
 ### LeetCode:
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
