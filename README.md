@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=wh04m1i&icon=0&color=10)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=wh04m1i&icon=0&color=10)
 <h1 align="center">Hi 👋, I'm Goverdhan Kumar</h1>
 # 💫 About Me: <br>
  GitHub Contributor | Cybersecurity Enthusiast | Penetration Testing | OSINT | Digital Forensics | Sharing insights and resources for secure coding and collaboration | Passionate about open-source projects | Let's collaborate and build a safer digital world together. <br><br>
@@ -88,8 +88,9 @@ Let's connect and collaborate to build innovative and secure software solutions 
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting"><img title="Intro to Pentesting" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/terminaled"><img title="Terminaled" alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/web-fund"><img title="Web Fundamentals" alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/webbed.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/7-day-streak"><img title="Web Fundamentals" alt="TryHackMe badge 12" src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/30-day-streak"><img title="Web Fundamentals" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/streak30.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/security-awareness"><img title="security awarenwss" alt="TryHackMe badge 12" src="https://tryhackme.com/img/badges/securityawareness.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/7-day-streak"><img title="7day" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/30-day-streak"><img title="30day" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/streak30.svg" width="100"></a>
 </div>
 
 
