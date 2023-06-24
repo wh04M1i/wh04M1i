@@ -43,7 +43,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://i-loadzone.com/wp-content/uploads/2020/01/Burp-Suite.png" alt="BurpSuite" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" alt="BurpSuite" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="Kali Linux" width="40" height="40"/>
