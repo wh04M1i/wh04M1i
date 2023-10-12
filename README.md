@@ -74,7 +74,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
- <a target="_blank" href="https://tryhackme.com/p/pangoverdhan"><img title="TryHackMe Badge" alt="TryHackMe badge " src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png" </a>
+ <a target="_blank" href="https://tryhackme.com/p/pangoverdhan"><img title="TryHackMe Badge" alt="TryHackMe badge " src="https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png" alt="TryHackMe" </a>
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/wireshark"><img title="Wireshark" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/wireshark.svg" width="100"></a>
@@ -91,6 +91,14 @@ Let's connect and collaborate to build innovative and secure software solutions 
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/security-awareness"><img title="security awarenwss" alt="TryHackMe badge 12" src="https://tryhackme.com/img/badges/securityawareness.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/7-day-streak"><img title="7day" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/30-day-streak"><img title="30day" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/streak30.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/intro-to-security-engineering"><img title="Introduction to Security Engineering" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/just-have-to-deal-with-it"><img title="just-have-to-deal-with-it" alt="TryHackMe badge 16" src="https://tryhackme.com/img/badges/managingincidents.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/calculated-risk"><img title="calculated-risk" alt="TryHackMe badge 17" src="https://tryhackme.com/img/badges/threatsandrisks.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/network-and-system-security"><img title="network-and-system-security" alt="TryHackMe badge 18" src="https://tryhackme.com/img/badges/networkandsystemsecurity.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/software-security"><img title="software-security" alt="TryHackMe badge 19" src="https://tryhackme.com/img/badges/softwaresecurity.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/adventofcyber4"><img title="adventofcyber4" alt="TryHackMe badge 20" src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/intro-to-web-hacking"><img title="intro-to-web-hacking" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="100"></a>
+ <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/burped"><img title="Burped" alt="TryHackMe badge 22" src="https://tryhackme.com/img/badges/burpsuite.svg" width="100"></a>
 </div>
 
 
