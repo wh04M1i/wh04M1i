@@ -74,7 +74,7 @@ Let's connect and collaborate to build innovative and secure software solutions 
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
- <a target="_blank" href="https://tryhackme.com/p/wh04m1i"> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=415141" style='border:none;'></iframe>" </a>
+ <a target="_blank" href="https://tryhackme.com/p/wh04m1i"><img src="https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png" alt="Your Image Badge" />
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/wireshark"><img title="Wireshark" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/wireshark.svg" width="100"></a>
