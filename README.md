@@ -1,147 +1,208 @@
-![](https://visitcount.itsvg.in/api?id=wh04m1i&icon=0&color=10)
-<h1 align="center">Hi 👋, I'm Goverdhan Kumar</h1>
-# 💫 About Me: <br>
- GitHub Contributor | Cybersecurity Enthusiast | Penetration Testing | OSINT | Digital Forensics | Sharing insights and resources for secure coding and collaboration | Passionate about open-source projects | Let's collaborate and build a safer digital world together. <br><br>
-<pre>I am a multi-talented professional with a strong background in cybersecurity, coding, and software development.With expertise in penetration testing,
-OSINT, and digital forensics, I bring a unique perspective to my coding projects. As a GitHub contributor, I actively contribute to open-source projects,
-leveraging my coding skills to enhance security measures and promote collaboration. I am passionate about creating secure and efficient software solutions
-that meet the needs of users while mitigating potential risks. By combining my knowledge of cybersecurity and coding, I strive to develop robust applications
-that prioritize both functionality and security. 
-Let's connect and collaborate to build innovative and secure software solutions together. </pre>
+<div align="center">
 
-- 📫 How to reach me *pandeygoverdhan@proton.me*
+```
+██╗    ██╗██╗  ██╗ ██████╗  ██╗  ██╗███╗   ███╗ ██╗██╗
+██║    ██║██║  ██║██╔═████╗ ██║  ██║████╗ ████║███║██║
+██║ █╗ ██║███████║██║██╔██║ ███████║██╔████╔██║╚██║██║
+██║███╗██║██╔══██║████╔╝██║ ╚════██║██║╚██╔╝██║ ██║╚═╝
+╚███╔███╔╝██║  ██║╚██████╔╝      ██║██║ ╚═╝ ██║ ██║██╗
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝       ╚═╝╚═╝     ╚═╝ ╚═╝╚═╝
+```
 
-<!-- <img align="right" alt="Hacker" width="350" src= "https://media.tenor.com/images/b09a5c53026b5b30935947f380107bdc/tenor.gif"><br> -->
-<!-- Snake animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40wh04m1i%3A~%23+whoami;Security+Researcher+%7C+Red+Teamer;AppSec+Engineer+%40+TCS;Built+Vector+%E2%80%94+Web+Security+Lab+Platform;IndiaSkills+National+Silver+Medalist;International+Speaker+%7C+Cyber+Secured+Africa;Top+1%25+TryHackMe+%7C+2M%2B+users)
+
+</div>
+
+---
+
+```bash
+root@wh04m1i:~# cat whoami.txt
+```
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Name     ::  Goverdhan Kumar                              │
+│   Handle   ::  wh04M1i                                      │
+│   Role     ::  Application Security Engineer @ TCS          │
+│               Founder, Foxfoster Labs                       │
+│               Chapter Lead, Cyber Secured India             │
+│   Location ::  Noida, India                                 │
+│   Status   ::  [■■■■■■■■■■] ACTIVE                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+```bash
+root@wh04m1i:~# cat achievements.txt
+```
+
+```
+[+] AppSec Engineer @ TCS ........... SAST · DAST · MAST · Threat Modeling
+[+] Built Vector .................... 18 challenges · 4-week web security lab
+[+] IndiaSkills Cybersecurity ....... National Silver Medalist 🥈
+[+] IndiaSkills Cybersecurity ....... State Gold Medalist 🥇
+[+] Cyber Secured Africa ............ International Panel Speaker 🌍
+[+] Trainer ......................... 5,000+ students · 15+ colleges across India
+[+] TryHackMe ....................... Top 1% among 2M+ users 🔥
+[+] Research ........................ AD · Malware · OSINT · Memory Forensics
+```
+
+---
+
+```bash
+root@wh04m1i:~# ./vector --info
+```
+
+<div align="center">
+
+### 🧪 [labs.foxfoster.com/vector](https://labs.foxfoster.com/vector)
+#### *"Where Systems Collapse"*
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  VECTOR — Web Security Lab Platform                          ║
+║  18 real-world challenges · 4 weeks · CTF leaderboard        ║
+║  In collaboration with OPSWAT Academy & MKITOS               ║
+╠══════════════════════════════════════════════════════════════╣
+║  WEEK 1 :: Surface Mapping                                   ║
+║            HTTP recon · Hidden endpoints · Proxy setup       ║
+║  WEEK 2 :: Input Corruption                                  ║
+║            XSS · SQLi · CSP bypass · File upload abuse      ║
+║  WEEK 3 :: Access Breakdown                                  ║
+║            IDOR · Session flaws · JWT attacks · API bypass   ║
+║  WEEK 4 :: Controlled Collapse                               ║
+║            Race conditions · Business logic · Reporting      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+```bash
+root@wh04m1i:~# cat skills.sh | grep -E "LOADED|ACTIVE"
+```
+
+```
+[LOADED] Web AppSec      :: SAST · DAST · OWASP Top 10 · Burp Suite · WAPT
+[LOADED] Active Directory:: Kerberoasting · Pass-the-Hash · GPO abuse · BloodHound
+[LOADED] Malware Analysis:: Static & dynamic · YARA rules · Behavioral analysis
+[LOADED] Memory Forensics:: Volatility · RAM dump analysis · Process injection
+[LOADED] Mobile Security :: MAST · APK analysis · iMazing · MVT
+[LOADED] OSINT           :: Metadata extraction · Steganography · Intel gathering
+[LOADED] Red Team        :: Attack chains · OPSEC · MITRE ATT&CK · C2 concepts
+[LOADED] Network Forensics:: Wireshark · Zeek · Suricata · PCAP · IOC hunting
+[LOADED] Scripting       :: Python · Bash · C++ · Security automation
+[LOADED] SOC & SIEM      :: Splunk · IBM QRadar · Alert triage · Log analysis
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+```bash
+root@wh04m1i:~# cat certifications.txt
+```
+
+```
+┌────────────────────────────────────────────────────────────┐
+│ CERTIFICATIONS & CREDENTIALS                               │
+├────────────────────────────────────────────────────────────┤
+│ [✓] CAP      - Certified AppSec Practitioner (SecOps)      │
+│ [✓] CNSP     - Certified Network Security Practitioner     │
+│ [✓] CCSP-AWS - Certified Cloud Security Practitioner AWS   │
+│ [✓] IndiaSkills Cybersecurity - National Silver Medalist   │
+│ [✓] IndiaSkills Cybersecurity - State Gold Medalist        │
+│ [✓] TryHackMe - Top 1% globally (2M+ users)               │
+│ [✓] Cyber Secured Africa - International Panel Speaker     │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```bash
+root@wh04m1i:~# ./github-stats --user wh04m1i
+```
+
+<div align="center">
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wh04m1i&theme=chartreuse-dark&hide_border=true)
+
+
+</div>
+
+---
+
+```bash
+root@wh04m1i:~# ./tryhackme --profile
+```
+
+<div align="center">
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png)](https://tryhackme.com/p/wh04m1i)
+
+</div>
+
+---
+
+```bash
+root@wh04m1i:~# ./github-trophies --user wh04m1i
+```
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+```bash
+root@wh04m1i:~# cat snake.log
+```
+
 <div align="center">
   <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
   <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
 
+---
 
+```bash
+root@wh04m1i:~# cat connect.txt
+```
 
-# 💻 Tech Stack:
-<h3 align="left">Language and Tools:</h3>
-<p align="left">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://jowasp.github.io/images/owasp_logo_icon.png" alt="OWASP" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://gitlab.com/uploads/-/system/project/avatar/11903880/kali-metasploit-framework.png" alt="Metasploit" width="40" height="40"/>
-  </a>
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" alt="BurpSuite" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="Kali Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.splunk.com/content/dam/splunk2/images/Planet-Splunk.png" alt="Splunk" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="Red Hat" width="40" height="40"/>
-  </a>
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  </a>
- <a href="https://www.html.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
- 
-</p>
-
-### 🎯 TryHackMe Profile
-
-<!-- TryHackMe Profile and Badges -->
 <div align="center">
-  <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
- <a target="_blank" href="https://tryhackme.com/p/wh04m1i"><img src="https://tryhackme-badges.s3.amazonaws.com/wh04m1i.png" alt="Your Image Badge" />
-</div>
-<div align="center">
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/wireshark"><img title="Wireshark" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/wireshark.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/world-wide-web"><img title="World Wide Web" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/howthewebworks.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/network-fundamentals"><img title="Network Fundamentals" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/blue"><img title="Blue" alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/blue.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/mr-robot"><img title="Mr. Robot" alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/hash-cracker"><img title="Hash Cracker" alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/ohsint"><img title="OhSINT" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/owasp-10"><img title="OWASP Top 10" alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/owasptop10.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/intro-to-pentesting"><img title="Intro to Pentesting" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/terminaled"><img title="Terminaled" alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/web-fund"><img title="Web Fundamentals" alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/webbed.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/security-awareness"><img title="security awarenwss" alt="TryHackMe badge 12" src="https://tryhackme.com/img/badges/securityawareness.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/7-day-streak"><img title="7day" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/30-day-streak"><img title="30day" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/streak30.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/intro-to-security-engineering"><img title="Introduction to Security Engineering" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/just-have-to-deal-with-it"><img title="just-have-to-deal-with-it" alt="TryHackMe badge 16" src="https://tryhackme.com/img/badges/managingincidents.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/calculated-risk"><img title="calculated-risk" alt="TryHackMe badge 17" src="https://tryhackme.com/img/badges/threatsandrisks.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/network-and-system-security"><img title="network-and-system-security" alt="TryHackMe badge 18" src="https://tryhackme.com/img/badges/networkandsystemsecurity.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/software-security"><img title="software-security" alt="TryHackMe badge 19" src="https://tryhackme.com/img/badges/softwaresecurity.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/adventofcyber4"><img title="adventofcyber4" alt="TryHackMe badge 20" src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/intro-to-web-hacking"><img title="intro-to-web-hacking" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="100"></a>
- <a target="_blank" href="https://tryhackme.com/wh04m1i/badges/burped"><img title="Burped" alt="TryHackMe badge 22" src="https://tryhackme.com/img/badges/burpsuite.svg" width="100"></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wh04m1i)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/who4m1i)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/P__Goverdhan_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://wh04m1i.github.io)
+[![Vector Lab](https://img.shields.io/badge/Vector_Lab-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://labs.foxfoster.com/vector)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pandeygoverdhan@proton.me)
+
 </div>
 
+---
 
 
-# 📊 GitHub Stats:
+```
+> "Break things to understand them. Build things to secure them."_
+```
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wh04m1i&theme=dark&hide_border=false) <br>
- 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wh04m1i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) <br>
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh04m1i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
- 
- # 📊 Coding Stats:
-
-### LeetCode:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pandeygoverdhan&theme=dark)
-
-<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N/) 
-<br>
-
-
-## 🏆 Coding & 🔓 Hacking Profiles:
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/goverdhan_kumar1?hr_r=1)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/wh04m1)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pangoverdhan)
-[![HackerOne](https://img.shields.io/badge/HackerOne-%23000000.svg?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/whoami1001)
-<br>
-
- 
-
-
-
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wh04m1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
